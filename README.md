@@ -1,4 +1,4 @@
-# kuliner
+# Kuliner Web App
 
 ## Project setup
 ```
