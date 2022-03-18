@@ -10,15 +10,19 @@ npm install
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Install JSON Placeholder
 ```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
+npm install -g json-server
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Run JSON Placeholder
+```
+json-server --watch db.json
+```
+
+### Thanks
+https://vuejs.org <br>
+https://github.com/typicode
+
+### Reference
+https://www.youtube.com/watch?v=XoDGI5JaPvw&list=PLIan8aHxsPj3a7oLHb2a8pw8IHBq45WYu
